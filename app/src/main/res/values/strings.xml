@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PARK IT</string>
+    <array name="parkname">
+        <item>Faculty parking</item>
+        <item>Staff Car Parking</item>
+        <item>Director House Parking</item>
+        <item>Faculty parking lot</item>
+        <item>BH-3 Parking</item>
+    </array>
+</resources>

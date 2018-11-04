@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1048016479807",
+    "firebase_url": "https://smartatt-5d50a.firebaseio.com",
+    "project_id": "smartatt-5d50a",
+    "storage_bucket": "smartatt-5d50a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048016479807:android:2bc86760824182f1",
+        "android_client_info": {
+          "package_name": "com.rohitkumar.smartatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048016479807-pri6r6uqomo3eo3aepmult7tjibeqf3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrdnpShT6Uedd49noS7qA75SsoF_Sx1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
