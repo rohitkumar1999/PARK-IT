@@ -12,7 +12,8 @@ Automated Car Parking Indicator System
 * 5) Collect the time and date of activities happening in a given parking slot. Every time the state of the parking slots
 changes, the date and time should be captured.
 ## WorkFlow 
-![]()
+![](https://github.com/rohitkumar1999/PARK-IT/blob/master/Screenshot%20from%202019-03-29%2022-34-58.png)
+## Demo
 ![](https://github.com/rohitkumar1999/PARK-IT/blob/master/ezgif.com-video-to-gif.gif)
 ## Technologies Used 
 - Android Studio
