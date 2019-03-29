@@ -11,6 +11,8 @@ state of the parking. For example 345: used, 346 open, and so on.
 Automated Car Parking Indicator System
 * 5) Collect the time and date of activities happening in a given parking slot. Every time the state of the parking slots
 changes, the date and time should be captured.
+## WorkFlow 
+![]()
 ![](https://github.com/rohitkumar1999/PARK-IT/blob/master/ezgif.com-video-to-gif.gif)
 ## Technologies Used 
 - Android Studio
